@@ -13,21 +13,18 @@ title: Welcome to my blog!
   <img src="https://img.shields.io/github/forks/bdalrhmnhmzt13-glitch/bot-hamza?style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/bdalrhmnhmzt13-glitch/bot-hamza?style=for-the-badge" />
 </p>
-🎯 عني
-🌱 **أتعلم حالياً:** Python, Django, APIs, Telegram Bots
+### 🎯 عني
+
+- 🔭 **أعمل حالياً على:** بوت الأحاديث النبوية وتطوير منصات ويب
+- 🌱 **أتعلم حالياً:** Python, Django, APIs, Telegram Bots
 - 💡 **مهتم بـ:** تطوير البوتات، الواجهات الخلفية، المشاريع مفتوحة المصدر
 - 🎓 **خلفيتي:** مطور ويب ومبرمج تطبيقات
 - 💼 **مستعد للتعاون:** في مشاريع Python، بوتات تيليجرام، وتطبيقات الويب
-- 📱 **تابعني على*:** [إنستغرام](https://instagram.com/ha_root0) • [فيسبوك](https://facebook.com/share/17v31ijuxH/) • [تيليجرام](https://t.me/Flix1211)
+- 📱 **تابعني على:** [إنستغرام](https://instagram.com/ha_root0) • [فيسبوك](https://facebook.com/share/17v31ijuxH/) • [تيليجرام](https://t.me/Flix1211)
 
-<div align="center">
-**التصنيف****التقنيات**
-**اللغات** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-| ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white) |
-| ------------------------------------------------------------ |
-</div>
+---
 
+## 
 ### 🔧 مهارات أخرى
 
 - تصميم وتطوير APIs
