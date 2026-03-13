@@ -1,4 +1,6 @@
 # GitHub Pages
+![photo_2026-03-13_15-21-14](https://github.com/user-attachments/assets/d192fe69-b461-4ea5-82c8-9bf817b921a4)
+
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
@@ -32,7 +34,6 @@ Remember, it's self-paced so feel free to take a break! ☕️
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bdalrhmnhmzt13@gmail.com)
 
 </div>
-
 
 <div align="center">
 
